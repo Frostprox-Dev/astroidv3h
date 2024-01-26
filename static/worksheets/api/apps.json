@@ -26,7 +26,7 @@
     "description": "2048 but, 1.",
     "tags": "",
     "route": "1",
-    "source": "https://files.vyper.group/blockpost/index.html",
+    "source": "https://astroid.gg/assignments/blockpost/index.html",
     "type": "app",
     "width": "1000px",
     "height": "625px",
@@ -165,33 +165,11 @@
     "listed": true
   },
   {
-    "title": "Geforce Now (Fortnite)",
-    "description": "2048 but, 1.",
-    "tags": "",
-    "route": "1",
-    "source": "https://www.geforcenow.com",
-    "type": "app",
-    "width": "1000px",
-    "height": "625px",
-    "listed": true
-  },
-  {
-    "title": "Not knock off geoguessr i swear",
+    "title": "GeoGuess",
     "description": "2048 but, 1.",
     "tags": "",
     "route": "1",
     "source": "https://demo.geoguess.games/",
-    "type": "app",
-    "width": "1000px",
-    "height": "625px",
-    "listed": true
-  },
-  {
-    "title": "Discord",
-    "description": "2048 but, 1.",
-    "tags": "",
-    "route": "1",
-    "source": "https://www.discord.com",
     "type": "app",
     "width": "1000px",
     "height": "625px",
@@ -247,17 +225,6 @@
     "tags": "",
     "route": "1",
     "source": "https://chess.com",
-    "type": "app",
-    "width": "1000px",
-    "height": "625px",
-    "listed": true
-  },
-  {
-    "title": "Whatsapp",
-    "description": "2048 but, 1.",
-    "tags": "",
-    "route": "1",
-    "source": "https://web.whatsapp.com",
     "type": "app",
     "width": "1000px",
     "height": "625px",
@@ -330,7 +297,7 @@
     "listed": true
   },
   {
-    "title": "Geforce Now??",
+    "title": "Geforce Now",
     "description": "2048 but, 1.",
     "tags": "",
     "route": "1",
@@ -374,7 +341,7 @@
     "listed": true
   },
   {
-    "title": "Googles AI",
+    "title": "Google Bard",
     "description": "2048 but, 1.",
     "tags": "",
     "route": "1",
@@ -385,7 +352,7 @@
     "listed": true
   },
   {
-    "title": "Github",
+    "title": "GitHub",
     "description": "2048 but, 1.",
     "tags": "",
     "route": "1",
@@ -517,14 +484,69 @@
       "listed": true
   },
   {
-      "title": "Freemovieswatch.net",
+      "title": "GOKU",
       "description": "Watch movies online",
       "tags": "",
       "route": "1",
-      "source": "https://freemovieswatch.net/",
+      "source": "https://goku.sx/home",
       "type": "app",
       "width": "1000px",
       "height": "625px",
       "listed": true
+  },
+  {
+      "title": "Aniwatch",
+      "description": "Anime",
+      "tags": "",
+      "route": "1",
+      "source": "https://aniwatch.to/tv",
+      "type": "app",
+      "width": "1000px",
+      "height": "625px",
+      "listed": true
+  },
+  {
+      "title": "Dingus Anime",
+      "description": "Anime",
+      "tags": "",
+      "route": "1",
+      "source": "https://dingusanime.com/anime",
+      "type": "app",
+      "width": "1000px",
+      "height": "625px",
+      "listed": true
+  },
+  {
+      "title": "TextNow",
+      "description": "TextNow",
+      "tags": "",
+      "route": "1",
+      "source": "https://www.textnow.com/",
+      "type": "app",
+      "width": "1000px",
+      "height": "625px",
+      "listed": true
+  },
+  {
+      "title": "Session",
+      "description": "Chatting platform",
+      "tags": "",
+      "route": "1",
+      "source": "https://getsession.org/",
+      "type": "app",
+      "width": "1000px",
+      "height": "625px",
+      "listed": true
+  },
+  {
+    "title": "character.ai",
+    "description": "",
+    "tags": "",
+    "route": "1",
+    "source": "https://c.ai/",
+    "type": "app",
+    "width": "1000px",
+    "height": "625px",
+    "listed": true
   }
 ]
