@@ -2,7 +2,7 @@
 
 <h1 align="center">AstroidV3</h1>
 
-Astroid is a proxy that supports now.gg. It uses Ultraviolet, a highly sophisticated web proxy for evading internet censorship and accessing websites in a controlled sandbox!
+Astroid is a proxy tchat supports now.gg. It uses Ultraviolet, a highly sophisticated web proxy for evading internet censorship and accessing websites in a controlled sandbox!
 
 ## Deployment
 
